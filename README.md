@@ -9,7 +9,7 @@ This project utilizes various computer vision techniques to track two tennis pla
 [Link to trained models](https://drive.google.com/drive/folders/17Nq1G18tbb7NOmqLeafRaAvmgad801Rx?usp=drive_link)
 ---
 # Output Example Screenshot
-![a screenshot to show the output of this project](output_vieos/screenshot.jpg)
+![a screenshot to show the output of this project](output_videos/screenshot.jpg)
 
 ---
 # Training
