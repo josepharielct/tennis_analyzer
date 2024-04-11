@@ -8,7 +8,7 @@ This project utilizes various computer vision techniques to track two tennis pla
 3. Fine-tuned RESNET50 to do keypoint detection on the court. <br><br>
 [Link to trained models](https://drive.google.com/drive/folders/17Nq1G18tbb7NOmqLeafRaAvmgad801Rx?usp=drive_link)
 ---
-# Output Example Screenshot
+# Example of Output
 ![a screenshot to show the output of this project](output_videos/screenshot.jpg)
 
 ---
